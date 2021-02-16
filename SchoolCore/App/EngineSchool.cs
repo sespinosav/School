@@ -27,7 +27,7 @@ namespace SchoolCore
 
         private void makeAlumns(int quantity = 50)
         {
-            string[] names = { "Alba", "Felipa", "Eusebio", "Farid", "Donald", "Alvaro", "Nicolás" };
+            string[] names = { "Manuela", "Felipa", "Eusebio", "Farid", "Donald", "Alvaro", "Nicolás" };
             string[] lastNames = { "Ruiz", "Sarmiento", "Uribe", "Maduro", "Trump", "Toledo", "Herrera" };
             string[] secondNames = { "Freddy", "Anabel", "Rick", "Murty", "Silvana", "Diomedes", "Nicomedes", "Teodoro" };
 
