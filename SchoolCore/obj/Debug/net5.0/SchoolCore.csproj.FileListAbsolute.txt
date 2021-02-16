@@ -1,0 +1,16 @@
+C:\Users\sespinosav\Documents\net\SchoolCore\bin\Debug\net5.0\SchoolCore.exe
+C:\Users\sespinosav\Documents\net\SchoolCore\bin\Debug\net5.0\SchoolCore.deps.json
+C:\Users\sespinosav\Documents\net\SchoolCore\bin\Debug\net5.0\SchoolCore.runtimeconfig.json
+C:\Users\sespinosav\Documents\net\SchoolCore\bin\Debug\net5.0\SchoolCore.runtimeconfig.dev.json
+C:\Users\sespinosav\Documents\net\SchoolCore\bin\Debug\net5.0\SchoolCore.dll
+C:\Users\sespinosav\Documents\net\SchoolCore\bin\Debug\net5.0\ref\SchoolCore.dll
+C:\Users\sespinosav\Documents\net\SchoolCore\bin\Debug\net5.0\SchoolCore.pdb
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.csprojAssemblyReference.cache
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.AssemblyInfoInputs.cache
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.AssemblyInfo.cs
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.csproj.CoreCompileInputs.cache
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.dll
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\ref\SchoolCore.dll
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.pdb
+C:\Users\sespinosav\Documents\net\SchoolCore\obj\Debug\net5.0\SchoolCore.genruntimeconfig.cache
